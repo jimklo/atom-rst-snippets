@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-t r": "rst-snippets:reflowTable",
+    "ctrl-alt-t enter": "rst-snippets:table"
+  }
+}

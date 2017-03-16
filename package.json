@@ -1,0 +1,21 @@
+{
+  "name": "rst-snippets",
+  "main": "./lib/rst-snippets",
+  "version": "0.0.1",
+  "description": "",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": [
+        "rst-snippets:reflowTable",
+        "rst-snippets:table"
+      ]
+  },
+  "repository": "https://github.com/jimklo/atom-rst-snippets",
+  "license": "Apache 2.0",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "word-wrap": "^1.2.1"
+  }
+}
