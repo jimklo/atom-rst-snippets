@@ -1,6 +1,17 @@
 {
   "atom-workspace": {
     "ctrl-alt-t r": "rst-snippets:reflowTable",
-    "ctrl-alt-t enter": "rst-snippets:table"
+    "ctrl-alt-t enter": "rst-snippets:table",
+    "ctrl-alt-h 1": "rst-snippets:h1",
+    "ctrl-alt-h 2": "rst-snippets:h2",
+    "ctrl-alt-h 3": "rst-snippets:h3",
+    "ctrl-alt-h 4": "rst-snippets:h4",
+    "ctrl-alt-h 5": "rst-snippets:h5",
+    "ctrl-alt-h 6": "rst-snippets:h6",
+    "ctrl-alt-h 7": "rst-snippets:h7",
+    "ctrl-alt-h 8": "rst-snippets:h8",
+    "ctrl-alt-h 9": "rst-snippets:h9",
+    "ctrl-alt-h a": "rst-snippets:h10",
+    "ctrl-alt-h b": "rst-snippets:h11"
   }
 }

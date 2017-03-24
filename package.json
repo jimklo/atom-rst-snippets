@@ -6,6 +6,17 @@
   "keywords": [],
   "activationCommands": {
     "atom-workspace": [
+      "rst-snippets:h1",
+      "rst-snippets:h2",
+      "rst-snippets:h3",
+      "rst-snippets:h4",
+      "rst-snippets:h5",
+      "rst-snippets:h6",
+      "rst-snippets:h7",
+      "rst-snippets:h8",
+      "rst-snippets:h9",
+      "rst-snippets:h10",
+      "rst-snippets:h11",
       "rst-snippets:reflowTable",
       "rst-snippets:table"
     ]
