@@ -19,12 +19,66 @@
           "label": "rst-snippets",
           "submenu": [
             {
-              "label": "RST Reflow Table",
-              "command": "rst-snippets:reflowTable"
+              "label": "Tables",
+              "submenu": [
+                {
+                  "label": "Table",
+                  "command": "rst-snippets:table"
+                },
+                {
+                  "label": "Reflow Table",
+                  "command": "rst-snippets:reflowTable"
+                }
+              ]
             },
             {
-              "label": "RST Table",
-              "command": "rst-snippets:table"
+              "label": "Headers",
+              "submenu": [
+                {
+                  "label": "H1",
+                  "command": "rst-snippets:h1"
+                },
+                {
+                  "label": "H2",
+                  "command": "rst-snippets:h2"
+                },
+                {
+                  "label": "H3",
+                  "command": "rst-snippets:h3"
+                },
+                {
+                  "label": "H4",
+                  "command": "rst-snippets:h4"
+                },
+                {
+                  "label": "H5",
+                  "command": "rst-snippets:h5"
+                },
+                {
+                  "label": "H6",
+                  "command": "rst-snippets:h6"
+                },
+                {
+                  "label": "H7",
+                  "command": "rst-snippets:h7"
+                },
+                {
+                  "label": "H8",
+                  "command": "rst-snippets:h8"
+                },
+                {
+                  "label": "H9",
+                  "command": "rst-snippets:h9"
+                },
+                {
+                  "label": "H10",
+                  "command": "rst-snippets:h10"
+                },
+                {
+                  "label": "H11",
+                  "command": "rst-snippets:h11"
+                }
+              ]
             }
           ]
         }
